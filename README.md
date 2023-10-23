@@ -1,6 +1,7 @@
 # Learning Objectives
 
 ## OSI Model
+The Open Systems Interconnection model is a conceptual framework that standardises how different computer systems communicate with each other over a network. It helps ensure that devices can work together.
 
 ### What it is
 
